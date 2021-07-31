@@ -1,10 +1,10 @@
 {
   "homepage": "https://sites.google.com/view/advanced-craft-en",
   "1.12.2-latest": {
-    "1.1.0": "made mod public."
+    "1.0.0": "made mod public."
   },
   "promos": {
-    "1.12.2-latest": "1.1.0",
-    "1.12.2-recommended": "1.1.0"
+    "1.12.2-latest": "1.0.0",
+    "1.12.2-recommended": "1.0.0"
   }
 }
