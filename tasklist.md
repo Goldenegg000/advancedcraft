@@ -4,7 +4,7 @@
 
 
 ### beta tasks
-- [ ] create upgrade system for the hearts
-- [ ] fixe chest spawn issue
-- [ ] make heart effects
+- [x] create upgrade system for the hearts
+- [x] fix chest spawn issue
+- [x] make heart effects
 - [x] make salt more awsome
