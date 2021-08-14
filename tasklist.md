@@ -8,3 +8,4 @@
 - [x] fix chest spawn issue
 - [x] make heart effects
 - [x] make salt more awsome
+- [ ] find new ideas
